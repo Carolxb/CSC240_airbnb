@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<div class="center for-style-8">
+  <img src="UR_logo.png" alt="'UR Logo" width="'498" height="101">
+  <h1> Welcome to University Auto Library System </h1>
+  <p>
+    "If you haven't ever sign up for an account please sign up here first, and then log in."
+  </p>
+
+ <!-- User Login -->
+ <div class="w3-container" id="user login" style="margin-top:55px">
+  <h1 class="w3-xxxlarge w3-text-red"><b>User Login</b></h1>
+  <hr style="width:1300px;border:5px solid slateblue" class="w3-round">
+  <form action="user_login.php" method="post">
+    <label for="user_name">Name (Enter String):</label><br>
+    <input type="text" id="name" name="name" value="" required maxlength="30" placeholder="max_length=30 char"><br><br>
+    <label for="ssn">SSN:</label><br>
+    <input type="password" id="ssn" name="ssn" value="" pattern=".{9}" title="Field must be 9 digits long" placeholder="9 digits length" required><br><br>
+    <label for="birthday">Birthday:</label><br>
+    <input type="date" id="date" name="birthday" value="" required><br><br>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+    
+  </form>
+</div>
+
+
+<!-- User Signup -->
+<div class="w3-container" id="user signup" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-red"><b> User Signup</b></h1>
+    <hr style="width:1300px;border:5px solid slateblue" class="w3-round">
+    
+    <form action="user_signup.php" method="post">
+      <label for="user_name">Name (Enter String):</label><br>
+      <input type="text" id="name" name="name" value="" required maxlength="30" placeholder="max_length=30 char"><br><br>
+      <label for="ssn">SSN:</label><br>
+      <input type="password" id="ssn" name="ssn" value="" pattern=".{9}" title="Field must be 9 digits long" placeholder="9 digits length" required><br><br>
+      <label for="birthday">Birthday:</label><br>
+      <input type="date" id="date" name="birthday" value="" required><br><br>
+      <label for="email">Email Address:</label><br>
+      <input type="email" id="email" name="email" value="" required><br><br>
+      <label for="phone">Phone Number:</label><br>
+      <input type="tel" id="phone" name="phone" value="" required placeholder="10 digits length"><br><br>
+  
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    </p>
+  </div>
+
+ 

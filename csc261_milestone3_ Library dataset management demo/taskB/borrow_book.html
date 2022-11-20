@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <center>
+            <body>
+                <div class="center for-style-8">
+                    <img src="UR_logo.png" alt="'UR Logo" width="'498" height="101">
+                    <h1> Borrow Book </h1>
+                    <form method="post" action="borrow_inf.php">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <div class="form-group">
+                                    <h4>Please input the book copy information of the book you borrow:</h4>
+                                    <br>
+                                    <label for="book_ID">Book ID</label>
+                                    <input type="number" class="form-control" name="book_ID" required min="1" max="100" placeholder="1-100">
+                                    <br>
+                                    <label for="copy_ID">Copy ID</label>
+                                    <input type="number" class="form-control" name="copy_ID" required min="1" max="5" placeholder="1-5">
+                                    <br>
+                                    <label for="library_ID">Library ID</label>
+                                    <input type="number" class="form-control" name="library_ID" required min="1" max="5" placeholder="1-5">
+                                    <br>
+                                    <label for="ssn">Borrower SSN</label>
+                                    <input type="password" class="form-control" name="ssn" pattern=".{9}" title="Field must be 9 digits long" placeholder="digits_length=9" required>
+                                    <br>
+                                    <label for="borrowed_date">Current date that borrow this copy(borrowed_date)</label>
+                                    <input type="date" class="form-control" name="borrowed_date" required>
+                                    <br>
+                                    <label for="due_date">Expected return Date(due date)</label>
+                                    <input type="date" class="form-control" name="due_date" required>
+                                    <br>
+                                    
+                                    <br>
+                                    <button type="submit" class="btn btn-primary">Submit</button>
+                                    <br>
+                                    
+                                </div>
+                            </div>
+                          </div>
+                    </div>
+                    </form>
+    
+                    <br>
+                    <br>
+                    <a href="landing.html">Back to main menu</a>
+                    <br>
+                    <br>
+                    <a href="signup_login.html">
+                        <button>Log out</button>
+                    </a>
+                    
+                    
+                   
+                </div>
+            </body>
+        </center>
+    </head>
+</html>

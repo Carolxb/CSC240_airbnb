@@ -1,0 +1,15 @@
+The address of our initial web page on Betaweb server is:
+http://betaweb.csug.rochester.edu/~xlou5/signup_login.html
+
+Please remember to connect the Cisco UR DUO first and then enter the web page with the above link.
+
+Our webpage contain links/tabs to view the content of each relation/table we created in Task C. After you successfully enter the main menu, you can see a tab called "Check library_ID first". You can view our library table through it. And in the main menu page, you can also see a tab named "Resource view". You can click it and enter you'll see four tabs corresponding to viewing our other four tables: borrowing record, book, copies, and user list.
+
+Contribution:
+Team 24
+#1 Xubin Lou : xlou5@u.rochester.edu
+Contribution: Involved in the creation of tables. Connect the table resources to beta web and write php and html to generate webpages and achieve the logic function in these webpages. 40% work
+#2 Mengmeng Yu : myu26@u.rochester.edu
+Contribution: Involved in the creation of tables. Webpage using test and debug. Summarize the function description of the webpages. 30% work
+#3 Zhengyuan Wang : zwang135@u.rochester.edu
+Contribution: Involved in the creation of tables. Rearrange the table format to ensure them meet BCNF Normalization in Task A. And involved in the final test of the webpages. 30% work

@@ -1,0 +1,101 @@
+book_ID,book_name,author,type_g,pub_year,langua
+1,Fundamentals of Wavelets,Jaideva Goswami,tech,1998,English
+2,Data Smart,John Foreman,tech,1999,English
+3,God Created the Integers,Stephen Hawking,tech,1994,English
+4,Superfreakonomics,Stephen Dubner,science,2008,English
+5,Orientalism,Edward Said,nonfiction,2005,English
+6,The Nature of Statistical Learning Theory,Vladimir Vapnik,tech,2006,English
+7,Integration of the Indian States,V P Menon ,nonfiction,2006,English
+8,Drunkard's Walk,Leonard Mlodinow,science,2006,English
+9,Image Processing & Mathematical Morphology,Frank Shih,tech,2006,English
+10,How to Think Like Sherlock Holmes,Maria Konnikova,nonfiction,2001,English
+11,Data Scientists at Work,Sebastian Gutierrez,tech,2001,English
+12,Slaughterhouse Five,Kurt Vonnegut,fiction,1902,English
+13,Birth of a Theorem,Cedric Villani,science,1998,English
+14,Structure & Interpretation of Computer Programs,Gerald Sussman,tech,2003,English
+15,Age of Wrath,Abraham Eraly,nonfiction,1994,English
+16,Trial,Frank Kafka,fiction,2009,English
+17,Statistical Decision Theory',John Pratt,tech,2013,English
+18,Data Mining Handbook,Robert Nisbet,tech,2006,English
+19,New Machiavelli,H. G. Wells,fiction,2008,English
+20,Physics & Philosophy,Werner Heisenberg,philosophy,1970,English
+21,Making Software,Andy Oram,tech,2001,English
+22,Trial,Frank Kafka,fiction_tech,2009,French
+23,Machine Learning for Hackers,Drew Conway,tech,1994,English
+24,Signal and the Noise,Nate Silver,tech,2005,English
+25,Python for Data Analysis,Wes McKinney,tech,2008,English
+26,Introduction to Algorithms,Thomas Cormen,tech,2009,English
+27,Beautiful and the Damned,Siddhartha Deb,nonfiction,2007,English
+28,The Outsider,Albert Camus,fiction,1998,English
+29,The Vol I Complete Sherlock Holmes,Arthur Conan Doyle,fiction,2001,English
+30,The Vol II Complete Sherlock Holmes,Arthur Conan Doyle,fiction,2008,English
+31,Wealth of Nations,Adam Smith,science,2002,English
+32,Pillars of the Earth,Ken Follett,fiction,1992,English
+33,Mein Kampf,Adolf Hitler,nonfiction,2006,French
+34,The Tao of Physics,Fritjof Capra,science,2007,English
+35,Surely You're Joking Mr Feynman,Richard Feynman,science,1995,English
+36,A Farewell to Arms,Ernest Hemingway,fiction,1998,English
+37,The Veteran,Frederick Forsyth,fiction,2009,English
+38,False Impressions,Jeffery Archer,fiction,2006,English
+39,The Last Lecture,Randy Pausch,nonfiction,1991,English
+40,Return of the Primitive,Ayn Rand,philosophy,2008,English
+41,Jurassic Park,Michael Crichton,fiction,1998,English
+42,A Russian Journal,John Steinbeck,nonfiction,2006,English
+43,Tales of Mystery and Imagination,Edgar Allen Poe,fiction,2010,English
+44,Freakonomics,Stephen Dubner,science,2008,English
+45,The Hidden Connections,Fritjof Capra,science,2006,English
+46,The Story of Philosophy,Will Durant,philosophy,2005,English
+47,Asami Asami,P L Deshpande,fiction,2004,Spanish
+48,Journal of a Novel,John Steinbeck,fiction,1995,English
+49,Once There Was a War,John Steinbeck,nonfiction,2006,English
+50,The  Moon is Down,John Steinbeck,fiction,2006,English
+51,The Brethren,John Grisham,fiction,2006,French
+52,In a Free State,V. S. Naipaul,fiction,2003,English
+53,Catch 22,Joseph Heller,fiction,2006,English
+54,The Complete Mastermind,BBC,nonfiction,2007,English
+55,Dylan on Dylan,Bob Dylan,nonfiction,2003,English
+56,Soft Computing & Intelligent Systems,Madan Gupta,tech,1994,English
+57,Textbook of Economic Theory,Alfred Stonier,tech,1996,English
+58,Econometric Analysis,W. H. Greene,tech,2006,English
+59,Learning OpenCV,Gary Bradsky,tech,2004,English
+60,Data Structures Using C & C++,Andrew Tanenbaum,tech,2008,English
+61,A Modern Approach Computer Vision,David Forsyth,tech,2005,English
+62,Principles of Communication Systems,Schilling Taub,tech,2011,English
+63,Let Us C,Yashwant Kanetkar,tech,2016,English
+64,Amulet of Samarkand,Jonathan Stroud,fiction,2008,English
+65,Crime and Punishment,Fyodor Dostoevsky,fiction,2011,English
+66,Angels & Demons,Dan Brown,fiction,2001,English
+67,Argumentative Indian,Amartya Sen,nonfiction,2010,English
+68,Sea of Poppies,Amitav Ghosh,fiction,1991,English
+69,Idea of Justice,Amartya Sen,philosophy,2004,English
+70,A Raisin in the Sun,Lorraine Hansberry,fiction,2005,English
+71,All the President's Men,Bob Woodward,nonfiction,2006,English
+72,Scoop!,Kuldip Nayar,nonfiction,2010,English
+73,Ahe Manohar Tari,Sunita Deshpande,nonfiction,1995,Hindi
+74,The Last Mughal,William Dalrymple,nonfiction,2013,English
+75,Social Choice & Welfare Vol 39 No. 1,Various,tech,2009,English
+76,Radiowaril Bhashane & Shrutika,P L Deshpande,nonfiction,2006,Marathi
+77,Gun Gayin Awadi,P L Deshpande,nonfiction,2004,Hausa
+78,Aghal Paghal,P L Deshpande,nonfiction,2007,Cebuano
+79,Maqta-e-Ghalib,Sanjay Garg,nonfiction,1996,Bulgarian
+80,Manasa,V P Kale,nonfiction,1997,Bangla
+81,India from Midnight to Milennium,Shashi Tharoor,nonfiction,1995,English
+82,The Great Indian Novel,Shashi Tharoor,fiction,2009,English
+83,O Jerusalem!,Dominique Lapierre,nonfiction,1992,English
+84,The City of Joy,Dominique Lapierre,fiction,2008,English
+85,Freedom at Midnight,Dominique Lapierre,nonfiction,1998,English
+86,The Winter of Our Discontent,John Steinbeck,fiction,2008,English
+87,On Education,Bertrand Russell,philosophy,2008,English
+88,Free Will,Sam Harris,nonfiction,1992,English
+89,Bookless in Baghdad,Shashi Tharoor,nonfiction,2008,English
+90,The Case of the Lame Canary,Earle Stanley Gardner,fiction,2004,English
+91,The Theory of Everything,Stephen Hawking,science,1997,English
+92,Drucker,Peter Drucker,science,2003,English
+93,Electric Universe,David Bodanis,science,1997,English
+94,The Hunchback of Notre Dame,Victor Hugo,fiction,2003,English
+95,Burning Bright,John Steinbeck,fiction,1991,English
+96,The Age of Discontuinity,Peter Drucker,nonfiction,1997,English
+97,Doctor in the Nude,Richard Gordon,fiction,2005,English
+98,Down and Out in Paris & London,George Orwell,nonfiction,2007,English
+99,Identity & Violence,Amartya Sen,philosophy,2009,English
+100,A Christmas Carol,Charles Dickens,fiction,1967,English
